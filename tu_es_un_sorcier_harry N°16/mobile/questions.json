@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Quel langage de programmation est enseigné au cours de 'Sortilèges avancés pour développeurs' ?",
+    "answers": [
+      { "text": "Pythonicus", "correct": true },
+      { "text": "Cobol Mortis", "correct": false },
+      { "text": "HTMLus Basicus", "correct": false },
+      { "text": "C++mentum", "correct": false }
+    ]
+  },
+  {
+    "question": "Quel outil magique permet de déployer un sort dans plusieurs royaumes à la fois ?",
+    "answers": [
+      { "text": "Portus Localhost", "correct": false },
+      { "text": "Wingardium Deployosa", "correct": false },
+      { "text": "Docker", "correct": true },
+      { "text": "Virtualenv Patronum", "correct": false }
+    ]
+  },
+  {
+    "question": "Que se passe-t-il quand un sort plante en production ?",
+    "answers": [
+      { "text": "Le serveur explose", "correct": false },
+      { "text": "Un Bug apparaîtra", "correct": true },
+      { "text": "Le balai se déconnecte", "correct": false },
+      { "text": "La base de potions se vide", "correct": false }
+    ]
+  },
+  {
+    "question": "Quelle commande invoque un environnement virtuel à Poudlard ?",
+    "answers": [
+      { "text": "source env/bin/activate", "correct": true },
+      { "text": "Avada pip install", "correct": false },
+      { "text": "make sorcery", "correct": false },
+      { "text": "git initium", "correct": false }
+    ]
+  },
+  {
+    "question": "Quel professeur est responsable du cours de Sécurité des Sorts Numériques ?",
+    "answers": [
+      { "text": "Severus VPNogue", "correct": false },
+      { "text": "Minerva Cryptogall", "correct": false },
+      { "text": "Rubeus Sysloggrid", "correct": false },
+      { "text": "Albus FireWallDore", "correct": true }
+    ]
+  },
+  {
+    "question": "Quelle potion aide à améliorer les performances d’un sort lourd ?",
+    "answers": [
+      { "text": "Potion d’Optimisation", "correct": true },
+      { "text": "Potion d’Indexation", "correct": false },
+      { "text": "Potion du Débogueur", "correct": false },
+      { "text": "Potion de la Paresse", "correct": false }
+    ]
+  },
+  {
+    "question": "Quel est le protocole préféré des hiboux numériques de Poudlard ?",
+    "answers": [
+      { "text": "SMTPus", "correct": true },
+      { "text": "HTTPotter", "correct": false },
+      { "text": "SFTP Patronum", "correct": false },
+      { "text": "IMAPendo", "correct": false }
+    ]
+  },
+  {
+    "question": "Que signifie l'erreur 404 dans le grimoire magique ?",
+    "answers": [
+      { "text": "Le sorcier n’a plus de café", "correct": false },
+      { "text": "Le sort demandé n'existe pas", "correct": true },
+      { "text": "Le sort a été mangé par un Détraqueur", "correct": false },
+      { "text": "Le serveur est possédé", "correct": false }
+    ]
+  },
+  {
+    "question": "Quelle est la meilleure façon de sauvegarder ses potions ?",
+    "answers": [
+      { "text": "Les cacher dans la Chambre des Secrets", "correct": false },
+      { "text": "Les envoyer par hibou", "correct": false },
+      { "text": "Faire un git commit", "correct": true },
+      { "text": "Les graver sur un parchemin", "correct": false }
+    ]
+  },
+  {
+    "question": "Quel sort permet de repousser les failles de sécurité ?",
+    "answers": [
+      { "text": "Expecto Tokenum", "correct": false },
+      { "text": "Protego Firewallum", "correct": true },
+      { "text": "Expelliarmus Root", "correct": false },
+      { "text": "Sudo Patronum", "correct": false }
+    ]
+  },
+  {
+    "question": "Quel animal mythique gère le réseau de Poudlard Tech ?",
+    "answers": [
+      { "text": "Le Basilic Fibreux", "correct": false },
+      { "text": "L’Hippogriffe 5G", "correct": false },
+      { "text": "Le Troll du DNS", "correct": false },
+      { "text": "Le Phénix Wi-Fyre", "correct": true }
+    ]
+  },
+  {
+    "question": "Quelle commande sert à invoquer le gestionnaire de paquets magiques ?",
+    "answers": [
+      { "text": "pip install", "correct": true },
+      { "text": "accio package", "correct": false },
+      { "text": "npmus startus", "correct": false },
+      { "text": "brewium mix", "correct": false }
+    ]
+  },
+  {
+    "question": "Quelle est la devise des développeurs sorciers ?",
+    "answers": [
+      { "text": "Expecto Debugum", "correct": false },
+      { "text": "Avada Syntax Error", "correct": false },
+      { "text": "Codeus, Compileus, Deployus", "correct": true },
+      { "text": "Wingardium Pushosa", "correct": false }
+    ]
+  },
+  {
+    "question": "Que fait un dev-sorcier avant de lancer un sort en production ?",
+    "answers": [
+      { "text": "Il teste dans un environnement de staging", "correct": true },
+      { "text": "Il prie Merlin", "correct": false },
+      { "text": "Il recharge sa baguette", "correct": false },
+      { "text": "Il fait un café", "correct": false }
+    ]
+  },
+  {
+    "question": "Quelle base magique contient toutes les données des potions ?",
+    "answers": [
+      { "text": "PostgreSpell", "correct": true },
+      { "text": "MySorcerer", "correct": false },
+      { "text": "MongoMora", "correct": false },
+      { "text": "Redis Patronum", "correct": false }
+    ]
+  },
+  {
+    "question": "Quel langage est le plus utilisé pour invoquer des API magiques ?",
+    "answers": [
+      { "text": "Python", "correct": true },
+      { "text": "JavaSorcerer", "correct": false },
+      { "text": "Rubyus on Wand", "correct": false },
+      { "text": "C#arm", "correct": false }
+    ]
+  },
+  {
+    "question": "Quelle école forme les DevOps magiciens ?",
+    "answers": [
+      { "text": "HogTech", "correct": false },
+      { "text": "EPSIdor", "correct": false },
+      { "text": "Dockerwarts", "correct": true },
+      { "text": "Serpencode", "correct": false }
+    ]
+  },
+  {
+    "question": "Quel est le remède contre une 'boucle infinie' ?",
+    "answers": [
+      { "text": "Un break salvateur", "correct": true },
+      { "text": "Un Redémarrage du Ministère", "correct": false },
+      { "text": "Un Expecto NullPointer", "correct": false },
+      { "text": "Une potion de patience", "correct": false }
+    ]
+  },
+  {
+    "question": "Que signifie l’acronyme ‘JSON’ dans le monde des sorciers ?",
+    "answers": [
+      { "text": "Just Sort Of Nonsense", "correct": false },
+      { "text": "Jedi Spells On Network", "correct": false },
+      { "text": "Jouvence Sans Objet Nommé", "correct": false },
+      { "text": "JavaScript Sorcery Object Notation", "correct": true }
+    ]
+  },
+  {
+    "question": "Que crie un développeur sorcier quand tout compile sans erreur ?",
+    "answers": [
+      { "text": "It’s alive !!!", "correct": true },
+      { "text": "Accio café !", "correct": false },
+      { "text": "Avada Testum !", "correct": false },
+      { "text": "Mergeus Maxima !", "correct": false }
+    ]
+  }
+]
