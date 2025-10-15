@@ -1,0 +1,7 @@
+pandas
+matplotlib
+python-docx
+tqdm
+regex
+nltk
+spacy
