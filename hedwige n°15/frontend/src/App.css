@@ -1,0 +1,61 @@
+body {
+    font-family: 'Cinzel', serif;
+    background: linear-gradient(to bottom, #1c1c1c, #3a1f0b);
+    color: #f5deb3;
+    margin: 0;
+    padding: 0;
+}
+
+.app-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.hp-button {
+    font-family: 'Cinzel', serif;
+    background: #5b2c06;
+    color: #f5deb3;
+    border: 2px solid #f5deb3;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+.hp-button:hover {
+    background: #f5deb3;
+    color: #5b2c06;
+}
+
+.hp-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px auto;
+    width: fit-content;
+    text-align: left;
+}
+
+.hp-list li {
+    margin: 5px 0;
+    padding: 5px 10px;
+    border-left: 3px solid #f5deb3;
+    background-color: rgba(255, 255, 255, 0.05);
+    font-size: 16px;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 9999;
+    background-color: #000;
+    opacity: 1;
+    transition: opacity 0.8s ease;
+}
+
+.fade-out {
+    opacity: 0;
+}
